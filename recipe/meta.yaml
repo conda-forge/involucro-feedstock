@@ -17,7 +17,7 @@ source:
     folder: src/github.com/involucro/involucro/vendor/github.com/fatih/color/vendor/github.com/mattn/go-colorable
 
 build:
-  number: 0
+  number: 1
   skip: true  # [win]
 
 requirements:
